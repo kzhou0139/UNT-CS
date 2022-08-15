@@ -1,0 +1,37 @@
+6
+Michelle Obama
+Becoming
+123456
+135
+15.99
+in
+John Green
+The Fault in Our Stars
+234567
+357
+7.5
+in
+Frank Hubert
+Dune
+345678
+579
+9.99
+in
+Rick Riordan
+The Mark of Athena
+456789
+791
+21.99
+in
+George Orwell
+1984
+567890
+913
+6.59
+in
+Paul Kalanithi
+When Breath Becomes Air
+678901
+392
+9.49
+in

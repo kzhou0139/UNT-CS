@@ -1,0 +1,3 @@
+/Users/kellyzhou/CLionProjects/ksz0009Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kellyzhou/CLionProjects/ksz0009Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kellyzhou/CLionProjects/ksz0009Project1/cmake-build-debug/CMakeFiles/ksz0009Project1.dir

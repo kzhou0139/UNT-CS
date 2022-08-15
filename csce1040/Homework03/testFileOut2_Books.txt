@@ -1,0 +1,31 @@
+5
+Michelle Obama
+Becoming
+123456
+135
+15.99
+Out
+John Green
+The Fault in Our Stars
+234567
+357
+7.5
+Out
+Frank Hubert
+Dune
+345678
+579
+9.99
+Out
+Rick Riordan
+The Mark of Athena
+456789
+791
+21.99
+Out
+George Orwell
+1984
+567890
+913
+6.59
+Out
