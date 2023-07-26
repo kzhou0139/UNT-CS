@@ -1,0 +1,420 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Jan17 ?        00:02:30 /sbin/init splash
+root           2       0  0 Jan17 ?        00:00:02 [kthreadd]
+root           3       2  0 Jan17 ?        00:00:00 [rcu_gp]
+root           4       2  0 Jan17 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Jan17 ?        00:00:00 [slub_flushwq]
+root           6       2  0 Jan17 ?        00:00:00 [netns]
+root           8       2  0 Jan17 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 Jan17 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Jan17 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 Jan17 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 Jan17 ?        00:00:11 [ksoftirqd/0]
+root          14       2  0 Jan17 ?        00:01:44 [rcu_sched]
+root          15       2  0 Jan17 ?        00:00:08 [migration/0]
+root          16       2  0 Jan17 ?        00:00:00 [idle_inject/0]
+root          18       2  0 Jan17 ?        00:00:00 [cpuhp/0]
+root          19       2  0 Jan17 ?        00:00:00 [cpuhp/1]
+root          20       2  0 Jan17 ?        00:00:00 [idle_inject/1]
+root          21       2  0 Jan17 ?        00:00:07 [migration/1]
+root          22       2  0 Jan17 ?        00:00:08 [ksoftirqd/1]
+root          24       2  0 Jan17 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          25       2  0 Jan17 ?        00:00:00 [kdevtmpfs]
+root          26       2  0 Jan17 ?        00:00:00 [inet_frag_wq]
+root          27       2  0 Jan17 ?        00:00:00 [kauditd]
+root          29       2  0 Jan17 ?        00:00:03 [khungtaskd]
+root          30       2  0 Jan17 ?        00:00:00 [oom_reaper]
+root          31       2  0 Jan17 ?        00:00:00 [writeback]
+root          32       2  0 Jan17 ?        00:01:09 [kcompactd0]
+root          33       2  0 Jan17 ?        00:00:00 [ksmd]
+root          34       2  0 Jan17 ?        00:00:00 [khugepaged]
+root          81       2  0 Jan17 ?        00:00:00 [kintegrityd]
+root          82       2  0 Jan17 ?        00:00:00 [kblockd]
+root          83       2  0 Jan17 ?        00:00:00 [blkcg_punt_bio]
+root          84       2  0 Jan17 ?        00:00:00 [tpm_dev_wq]
+root          85       2  0 Jan17 ?        00:00:00 [ata_sff]
+root          86       2  0 Jan17 ?        00:00:00 [md]
+root          87       2  0 Jan17 ?        00:00:00 [edac-poller]
+root          88       2  0 Jan17 ?        00:00:00 [devfreq_wq]
+root          89       2  0 Jan17 ?        00:00:00 [watchdogd]
+root          91       2  0 Jan17 ?        00:00:05 [kworker/0:1H-kblockd]
+root          93       2  0 Jan17 ?        00:00:00 [kswapd0]
+root          94       2  0 Jan17 ?        00:00:00 [ecryptfs-kthrea]
+root          96       2  0 Jan17 ?        00:00:00 [kthrotld]
+root          97       2  0 Jan17 ?        00:00:00 [irq/24-pciehp]
+root          98       2  0 Jan17 ?        00:00:00 [irq/25-pciehp]
+root          99       2  0 Jan17 ?        00:00:00 [irq/26-pciehp]
+root         100       2  0 Jan17 ?        00:00:00 [irq/27-pciehp]
+root         101       2  0 Jan17 ?        00:00:00 [irq/28-pciehp]
+root         102       2  0 Jan17 ?        00:00:00 [irq/29-pciehp]
+root         103       2  0 Jan17 ?        00:00:00 [irq/30-pciehp]
+root         104       2  0 Jan17 ?        00:00:00 [irq/31-pciehp]
+root         105       2  0 Jan17 ?        00:00:00 [irq/32-pciehp]
+root         106       2  0 Jan17 ?        00:00:00 [irq/33-pciehp]
+root         107       2  0 Jan17 ?        00:00:00 [irq/34-pciehp]
+root         108       2  0 Jan17 ?        00:00:00 [irq/35-pciehp]
+root         109       2  0 Jan17 ?        00:00:00 [irq/36-pciehp]
+root         110       2  0 Jan17 ?        00:00:00 [irq/37-pciehp]
+root         111       2  0 Jan17 ?        00:00:00 [irq/38-pciehp]
+root         112       2  0 Jan17 ?        00:00:00 [irq/39-pciehp]
+root         113       2  0 Jan17 ?        00:00:00 [irq/40-pciehp]
+root         114       2  0 Jan17 ?        00:00:00 [irq/41-pciehp]
+root         115       2  0 Jan17 ?        00:00:00 [irq/42-pciehp]
+root         116       2  0 Jan17 ?        00:00:00 [irq/43-pciehp]
+root         117       2  0 Jan17 ?        00:00:00 [irq/44-pciehp]
+root         118       2  0 Jan17 ?        00:00:00 [irq/45-pciehp]
+root         119       2  0 Jan17 ?        00:00:00 [irq/46-pciehp]
+root         120       2  0 Jan17 ?        00:00:00 [irq/47-pciehp]
+root         121       2  0 Jan17 ?        00:00:00 [irq/48-pciehp]
+root         122       2  0 Jan17 ?        00:00:00 [irq/49-pciehp]
+root         123       2  0 Jan17 ?        00:00:00 [irq/50-pciehp]
+root         124       2  0 Jan17 ?        00:00:00 [irq/51-pciehp]
+root         125       2  0 Jan17 ?        00:00:00 [irq/52-pciehp]
+root         126       2  0 Jan17 ?        00:00:00 [irq/53-pciehp]
+root         127       2  0 Jan17 ?        00:00:00 [irq/54-pciehp]
+root         128       2  0 Jan17 ?        00:00:00 [irq/55-pciehp]
+root         129       2  0 Jan17 ?        00:00:00 [acpi_thermal_pm]
+root         131       2  0 Jan17 ?        00:00:00 [scsi_eh_0]
+root         132       2  0 Jan17 ?        00:00:00 [scsi_tmf_0]
+root         133       2  0 Jan17 ?        00:00:00 [scsi_eh_1]
+root         134       2  0 Jan17 ?        00:00:00 [scsi_tmf_1]
+root         136       2  0 Jan17 ?        00:00:00 [vfio-irqfd-clea]
+root         137       2  0 Jan17 ?        00:00:00 [mld]
+root         138       2  0 Jan17 ?        00:00:00 [ipv6_addrconf]
+root         148       2  0 Jan17 ?        00:00:00 [kstrp]
+root         151       2  0 Jan17 ?        00:00:00 [zswap-shrink]
+root         158       2  0 Jan17 ?        00:00:00 [charger_manager]
+root         202       2  0 Jan17 ?        00:00:06 [kworker/1:1H-kblockd]
+root         204       2  0 Jan17 ?        00:00:00 [mpt_poll_0]
+root         205       2  0 Jan17 ?        00:00:00 [scsi_eh_2]
+root         206       2  0 Jan17 ?        00:00:00 [mpt/0]
+root         207       2  0 Jan17 ?        00:00:00 [scsi_tmf_2]
+root         208       2  0 Jan17 ?        00:00:00 [scsi_eh_3]
+root         209       2  0 Jan17 ?        00:00:00 [scsi_tmf_3]
+root         210       2  0 Jan17 ?        00:00:00 [scsi_eh_4]
+root         211       2  0 Jan17 ?        00:00:00 [scsi_tmf_4]
+root         212       2  0 Jan17 ?        00:00:00 [scsi_eh_5]
+root         213       2  0 Jan17 ?        00:00:00 [scsi_tmf_5]
+root         214       2  0 Jan17 ?        00:00:00 [scsi_eh_6]
+root         215       2  0 Jan17 ?        00:00:00 [scsi_tmf_6]
+root         216       2  0 Jan17 ?        00:00:00 [scsi_eh_7]
+root         217       2  0 Jan17 ?        00:00:00 [scsi_tmf_7]
+root         218       2  0 Jan17 ?        00:00:00 [scsi_eh_8]
+root         219       2  0 Jan17 ?        00:00:00 [scsi_tmf_8]
+root         220       2  0 Jan17 ?        00:00:00 [scsi_eh_9]
+root         221       2  0 Jan17 ?        00:00:00 [scsi_tmf_9]
+root         222       2  0 Jan17 ?        00:00:00 [scsi_eh_10]
+root         223       2  0 Jan17 ?        00:00:00 [scsi_tmf_10]
+root         224       2  0 Jan17 ?        00:00:00 [scsi_eh_11]
+root         225       2  0 Jan17 ?        00:00:00 [scsi_tmf_11]
+root         226       2  0 Jan17 ?        00:00:00 [scsi_eh_12]
+root         227       2  0 Jan17 ?        00:00:00 [scsi_tmf_12]
+root         228       2  0 Jan17 ?        00:00:00 [scsi_eh_13]
+root         229       2  0 Jan17 ?        00:00:00 [scsi_tmf_13]
+root         230       2  0 Jan17 ?        00:00:00 [scsi_eh_14]
+root         231       2  0 Jan17 ?        00:00:00 [scsi_tmf_14]
+root         232       2  0 Jan17 ?        00:00:00 [scsi_eh_15]
+root         233       2  0 Jan17 ?        00:00:00 [scsi_tmf_15]
+root         234       2  0 Jan17 ?        00:00:00 [scsi_eh_16]
+root         235       2  0 Jan17 ?        00:00:00 [scsi_tmf_16]
+root         236       2  0 Jan17 ?        00:00:00 [scsi_eh_17]
+root         237       2  0 Jan17 ?        00:00:00 [scsi_tmf_17]
+root         238       2  0 Jan17 ?        00:00:00 [scsi_eh_18]
+root         239       2  0 Jan17 ?        00:00:00 [scsi_tmf_18]
+root         240       2  0 Jan17 ?        00:00:00 [scsi_eh_19]
+root         241       2  0 Jan17 ?        00:00:00 [scsi_tmf_19]
+root         242       2  0 Jan17 ?        00:00:00 [scsi_eh_20]
+root         243       2  0 Jan17 ?        00:00:00 [scsi_tmf_20]
+root         244       2  0 Jan17 ?        00:00:00 [scsi_eh_21]
+root         245       2  0 Jan17 ?        00:00:00 [scsi_tmf_21]
+root         246       2  0 Jan17 ?        00:00:00 [scsi_eh_22]
+root         247       2  0 Jan17 ?        00:00:00 [scsi_tmf_22]
+root         248       2  0 Jan17 ?        00:00:00 [scsi_eh_23]
+root         249       2  0 Jan17 ?        00:00:00 [scsi_tmf_23]
+root         250       2  0 Jan17 ?        00:00:00 [scsi_eh_24]
+root         251       2  0 Jan17 ?        00:00:00 [scsi_tmf_24]
+root         252       2  0 Jan17 ?        00:00:00 [scsi_eh_25]
+root         253       2  0 Jan17 ?        00:00:00 [scsi_tmf_25]
+root         254       2  0 Jan17 ?        00:00:00 [scsi_eh_26]
+root         255       2  0 Jan17 ?        00:00:00 [scsi_tmf_26]
+root         256       2  0 Jan17 ?        00:00:00 [scsi_eh_27]
+root         257       2  0 Jan17 ?        00:00:00 [scsi_tmf_27]
+root         258       2  0 Jan17 ?        00:00:00 [scsi_eh_28]
+root         259       2  0 Jan17 ?        00:00:00 [scsi_tmf_28]
+root         260       2  0 Jan17 ?        00:00:00 [scsi_eh_29]
+root         261       2  0 Jan17 ?        00:00:00 [scsi_tmf_29]
+root         262       2  0 Jan17 ?        00:00:00 [scsi_eh_30]
+root         263       2  0 Jan17 ?        00:00:00 [scsi_tmf_30]
+root         264       2  0 Jan17 ?        00:00:00 [scsi_eh_31]
+root         265       2  0 Jan17 ?        00:00:00 [scsi_tmf_31]
+root         293       2  0 Jan17 ?        00:00:00 [scsi_eh_32]
+root         294       2  0 Jan17 ?        00:00:00 [scsi_tmf_32]
+root         316       2  0 Jan17 ?        00:00:08 [jbd2/sda5-8]
+root         317       2  0 Jan17 ?        00:00:00 [ext4-rsv-conver]
+root         359       1  0 Jan17 ?        00:01:25 /lib/systemd/systemd-journald
+root         381       2  0 Jan17 ?        00:00:00 [rpciod]
+root         382       2  0 Jan17 ?        00:00:00 [xprtiod]
+root         395       1  0 Jan17 ?        00:00:03 /lib/systemd/systemd-udevd
+root         429       2  0 Jan17 ?        00:00:00 [ttm_swap]
+root         430       2  0 Jan17 ?        00:00:00 [irq/16-vmwgfx]
+root         434       2  0 Jan17 ?        00:00:00 [card0-crtc0]
+root         435       2  0 Jan17 ?        00:00:00 [card0-crtc1]
+root         436       2  0 Jan17 ?        00:00:00 [card0-crtc2]
+root         438       2  0 Jan17 ?        00:00:00 [card0-crtc3]
+root         440       2  0 Jan17 ?        00:00:00 [card0-crtc4]
+root         441       2  0 Jan17 ?        00:00:00 [card0-crtc5]
+root         442       2  0 Jan17 ?        00:00:00 [card0-crtc6]
+root         443       2  0 Jan17 ?        00:00:00 [card0-crtc7]
+root         485       1  0 Jan17 ?        00:00:00 /usr/sbin/rpc.gssd
+_rpc         486       1  0 Jan17 ?        00:00:02 /sbin/rpcbind -f -w
+systemd+     487       1  0 Jan17 ?        00:00:12 /lib/systemd/systemd-resolved
+systemd+     489       1  0 Jan17 ?        00:00:03 /lib/systemd/systemd-timesyncd
+root         493       2  0 Jan17 ?        00:00:00 [cryptd]
+root         505       1  0 Jan17 ?        00:00:51 /usr/lib/accountsservice/accounts-daemon
+root         506       1  0 Jan17 ?        00:00:00 /usr/sbin/acpid
+avahi        512       1  0 Jan17 ?        00:04:30 avahi-daemon: running [cell06-cse.local]
+root         514       1  0 Jan17 ?        00:00:03 /usr/sbin/cron -f
+message+     516       1  0 Jan17 ?        00:01:25 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         517       1  0 Jan17 ?        00:03:30 /usr/sbin/NetworkManager --no-daemon
+root         522       1  0 Jan17 ?        00:01:27 /usr/sbin/irqbalance --foreground
+root         523       1  0 Jan17 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         526       1  0 Jan17 ?        00:10:53 /usr/lib/policykit-1/polkitd --no-debug
+syslog       532       1  0 Jan17 ?        00:00:12 /usr/sbin/rsyslogd -n -iNONE
+root         535       1  0 Jan17 ?        00:00:00 /usr/libexec/switcheroo-control
+root         550       1  0 Jan17 ?        00:00:07 /lib/systemd/systemd-logind
+root         553       1  0 Jan17 ?        00:00:03 /usr/lib/udisks2/udisksd
+root         555       1  0 Jan17 ?        00:00:09 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        582     512  0 Jan17 ?        00:00:00 avahi-daemon: chroot helper
+root         601       1  0 Jan17 ?        00:00:01 /usr/sbin/ModemManager
+root         628       1  0 Jan17 ?        00:00:00 /opt/pbis/sbin/lwsmd --start-as-daemon
+root         641     628  0 Jan17 ?        00:01:12 lw-container lwreg
+root         659       2  0 Jan17 ?        00:00:00 [nfit]
+root         669       1  0 Jan17 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         674       1  0 Jan17 ?        00:00:00 /usr/sbin/gdm3
+root         676     628  0 Jan17 ?        00:00:01 lw-container eventlog
+root         696     674  0 Jan17 ?        00:00:00 gdm-session-worker [pam/gdm-launch-environment]
+root         733     628  0 Jan17 ?        00:00:24 lw-container netlogon
+whoopsie     767       1  0 Jan17 ?        00:00:01 /usr/bin/whoopsie -f
+root         818       2  0 Jan17 ?        00:00:00 [nfsiod]
+root         820     628  0 Jan17 ?        00:00:00 lw-container lwio
+gdm          836       1  0 Jan17 ?        00:00:01 /lib/systemd/systemd --user
+gdm          840     836  0 Jan17 ?        00:00:00 (sd-pam)
+root         842     628  0 Jan17 ?        00:38:28 lw-container lsass
+root         866       2  0 Jan17 ?        00:00:00 [NFSv4 callback]
+root         872     628  0 Jan17 ?        00:00:00 lw-container reapsysl
+gdm          897     696  0 Jan17 tty1     00:00:00 /usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          898     836  0 Jan17 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+gdm          900     836  0 Jan17 ?        00:00:00 /usr/libexec/tracker-miner-fs
+gdm          902     836  0 Jan17 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+rtkit        906       1  0 Jan17 ?        00:00:21 /usr/libexec/rtkit-daemon
+gdm          913     897  0 Jan17 tty1     00:00:00 dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          914     913  0 Jan17 tty1     00:00:00 dbus-daemon --nofork --print-address 4 --session
+gdm          927     913  0 Jan17 tty1     00:00:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+gdm          928     836  0 Jan17 ?        00:00:00 /usr/libexec/gvfsd
+gdm          938     836  0 Jan17 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/125/gvfs -f -o big_writes
+kernoops     943       1  0 Jan17 ?        00:01:07 /usr/sbin/kerneloops --test
+kernoops     947       1  0 Jan17 ?        00:01:07 /usr/sbin/kerneloops
+root         948       1  0 Jan17 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+gdm          962     836  0 Jan17 ?        00:00:04 /usr/libexec/gvfs-udisks2-volume-monitor
+gdm          969     836  0 Jan17 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+gdm          975     836  0 Jan17 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+gdm          979     836  0 Jan17 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+gdm          987     836  0 Jan17 ?        00:00:01 /usr/libexec/goa-daemon
+gdm          990     927  0 Jan17 tty1     00:11:43 /usr/bin/gnome-shell
+gdm         1000     836  0 Jan17 ?        00:00:01 /usr/libexec/goa-identity-service
+gdm         1011     836  0 Jan17 ?        00:00:47 /usr/libexec/gvfs-afc-volume-monitor
+root        1017       1  0 Jan17 ?        00:00:00 /usr/lib/upower/upowerd
+gdm         1052       1  0 Jan17 tty1     00:00:00 /usr/libexec/at-spi-bus-launcher
+gdm         1057    1052  0 Jan17 tty1     00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm         1060     990  0 Jan17 tty1     00:00:00 /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/125/.mutter-Xwaylandauth.VAVPY1 -listen 4 -listen 5 -displayfd 6 -listen 7
+gdm         1077       1  0 Jan17 tty1     00:00:00 /usr/libexec/xdg-permission-store
+gdm         1092       1  0 Jan17 tty1     00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+gdm         1095       1  0 Jan17 tty1     00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm         1096     927  0 Jan17 tty1     00:00:02 /usr/libexec/gsd-sharing
+gdm         1099     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-wacom
+gdm         1106     927  0 Jan17 tty1     00:00:10 /usr/libexec/gsd-color
+gdm         1107     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-keyboard
+gdm         1108     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-print-notifications
+gdm         1110     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-rfkill
+gdm         1112     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-smartcard
+gdm         1117     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-datetime
+gdm         1125     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-media-keys
+gdm         1131     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-screensaver-proxy
+gdm         1135     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-sound
+gdm         1136     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-a11y-settings
+gdm         1139     927  0 Jan17 tty1     00:00:53 /usr/libexec/gsd-housekeeping
+gdm         1143     927  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-power
+gdm         1171       1  0 Jan17 tty1     00:00:00 /usr/libexec/gsd-printer
+colord      1211       1  0 Jan17 ?        00:00:00 /usr/libexec/colord
+gdm         1221     990  0 Jan17 tty1     00:00:00 ibus-daemon --panel disable -r --xim
+gdm         1231    1221  0 Jan17 tty1     00:00:00 /usr/libexec/ibus-memconf
+gdm         1245       1  0 Jan17 tty1     00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm         1259       1  0 Jan17 tty1     00:00:00 /usr/libexec/ibus-portal
+gdm         1268    1221  0 Jan17 tty1     00:00:00 /usr/libexec/ibus-engine-simple
+root        1299     948  0 Jan17 ?        00:00:03 sshd: cengadmin [priv]
+cengadm+    1310       1  0 Jan17 ?        00:00:01 /lib/systemd/systemd --user
+cengadm+    1312    1310  0 Jan17 ?        00:00:00 (sd-pam)
+cengadm+    1317    1310  0 Jan17 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+cengadm+    1319    1310  0 Jan17 ?        00:00:00 /usr/libexec/tracker-miner-fs
+cengadm+    1323    1310  0 Jan17 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+cengadm+    1356    1310  0 Jan17 ?        00:00:00 /usr/libexec/gvfsd
+cengadm+    1361    1310  0 Jan17 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+cengadm+    1363    1310  0 Jan17 ?        00:00:04 /usr/libexec/gvfs-udisks2-volume-monitor
+cengadm+    1375    1310  0 Jan17 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+cengadm+    1379    1310  0 Jan17 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+cengadm+    1383    1310  0 Jan17 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+cengadm+    1387    1310  0 Jan17 ?        00:00:01 /usr/libexec/goa-daemon
+cengadm+    1404    1310  0 Jan17 ?        00:00:01 /usr/libexec/goa-identity-service
+cengadm+    1415    1310  0 Jan17 ?        00:00:47 /usr/libexec/gvfs-afc-volume-monitor
+cengadm+    1476    1299  0 Jan17 ?        00:00:06 sshd: cengadmin@pts/0
+root        1477     948  0 Jan17 ?        00:00:00 sshd: cengadmin [priv]
+cengadm+    1479    1476  0 Jan17 pts/0    00:00:00 -bash
+cengadm+    1546    1477  0 Jan17 ?        00:00:00 sshd: cengadmin@notty
+cengadm+    1547    1546  0 Jan17 ?        00:00:00 /usr/lib/openssh/sftp-server
+cengadm+   57481    1310  0 Jan24 ?        00:00:00 /usr/libexec/gvfsd-metadata
+gdm        57497     836  0 Jan24 ?        00:00:00 /usr/libexec/gvfsd-metadata
+root      261217     948  0 Feb06 ?        00:00:00 sshd: unt\\rsb0108 [priv]
+root      261223     948  0 Feb06 ?        00:00:00 sshd: unt\\rsb0108 [priv]
+UNT\rsb+  261226       1  0 Feb06 ?        00:00:00 /lib/systemd/systemd --user
+UNT\rsb+  261228  261226  0 Feb06 ?        00:00:00 (sd-pam)
+UNT\rsb+  261233  261226  0 Feb06 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+UNT\rsb+  261235  261226  0 Feb06 ?        00:00:00 /usr/libexec/tracker-miner-fs
+UNT\rsb+  261252  261226  0 Feb06 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+UNT\rsb+  261263  261226  0 Feb06 ?        00:00:00 /usr/libexec/gvfsd
+UNT\rsb+  261278  261226  0 Feb06 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/707314467/gvfs -f -o big_writes
+UNT\rsb+  261279  261226  0 Feb06 ?        00:00:01 /usr/libexec/gvfs-udisks2-volume-monitor
+UNT\rsb+  261291  261226  0 Feb06 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+UNT\rsb+  261296  261226  0 Feb06 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+UNT\rsb+  261305  261226  0 Feb06 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+UNT\rsb+  261310  261226  0 Feb06 ?        00:00:31 /usr/libexec/goa-daemon
+UNT\rsb+  261355  261226  0 Feb06 ?        00:00:00 /usr/libexec/goa-identity-service
+UNT\rsb+  261369  261217  0 Feb06 ?        00:00:00 sshd: UNT\\rsb0108@pts/3
+UNT\rsb+  261370  261226  0 Feb06 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+UNT\rsb+  261378  261226  0 Feb06 ?        00:00:12 /usr/libexec/gvfs-afc-volume-monitor
+UNT\rsb+  261403  261369  0 Feb06 pts/3    00:00:00 -bash
+UNT\rsb+  261423  261226  0 Feb06 ?        00:00:00 /usr/libexec/gvfsd-metadata
+UNT\rsb+  261480  261223  0 Feb06 ?        00:00:00 sshd: UNT\\rsb0108@notty
+UNT\rsb+  261482  261480  0 Feb06 ?        00:00:00 /usr/lib/openssh/sftp-server
+root      629835       2  0 Feb10 ?        00:00:00 [xfsalloc]
+root      629836       2  0 Feb10 ?        00:00:00 [xfs_mru_cache]
+root      629839       2  0 Feb10 ?        00:00:00 [jfsIO]
+root      629840       2  0 Feb10 ?        00:00:00 [jfsCommit]
+root      629841       2  0 Feb10 ?        00:00:00 [jfsCommit]
+root      629842       2  0 Feb10 ?        00:00:00 [jfsSync]
+root      660331     948  0 Feb10 ?        00:00:00 sshd: cz0056 [priv]
+cz0056    660358       1  0 Feb10 ?        00:00:00 /lib/systemd/systemd --user
+cz0056    660360  660358  0 Feb10 ?        00:00:00 (sd-pam)
+cz0056    660365  660358  0 Feb10 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+cz0056    660367  660358  0 Feb10 ?        00:00:00 /usr/libexec/tracker-miner-fs
+cz0056    660369  660358  0 Feb10 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+cz0056    660401  660358  0 Feb10 ?        00:00:00 /usr/libexec/gvfsd
+cz0056    660410  660358  0 Feb10 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1633349284/gvfs -f -o big_writes
+cz0056    660412  660358  0 Feb10 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+cz0056    660428  660358  0 Feb10 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+cz0056    660438  660358  0 Feb10 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+cz0056    660444  660358  0 Feb10 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+cz0056    660449  660358  0 Feb10 ?        00:00:17 /usr/libexec/goa-daemon
+cz0056    660480  660358  0 Feb10 ?        00:00:00 /usr/libexec/goa-identity-service
+cz0056    660486  660358  0 Feb10 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+cz0056    660512  660331  0 Feb10 ?        00:00:00 sshd: cz0056@pts/5
+cz0056    660521  660358  0 Feb10 ?        00:00:06 /usr/libexec/gvfs-afc-volume-monitor
+cz0056    660534  660512  0 Feb10 pts/5    00:00:00 -bash
+root      739611       1  0 00:00 ?        00:00:00 /usr/sbin/cupsd -l
+root      739612       1  0 00:00 ?        00:00:00 /usr/sbin/cups-browsed
+root      745716       2  0 10:24 ?        00:00:01 [kworker/u256:4-events_power_efficient]
+root      748264     948  0 11:34 ?        00:00:00 sshd: cjg0253 [priv]
+cjg0253   748328       1  0 11:35 ?        00:00:00 /lib/systemd/systemd --user
+cjg0253   748330  748328  0 11:35 ?        00:00:00 (sd-pam)
+cjg0253   748335  748328  0 11:35 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+cjg0253   748337  748328  0 11:35 ?        00:00:00 /usr/libexec/tracker-miner-fs
+cjg0253   748339  748328  0 11:35 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+cjg0253   748363  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfsd
+cjg0253   748370  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1633166200/gvfs -f -o big_writes
+cjg0253   748381  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+cjg0253   748393  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+cjg0253   748397  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+cjg0253   748402  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+cjg0253   748407  748328  0 11:35 ?        00:00:00 /usr/libexec/goa-daemon
+cjg0253   748445  748264  0 11:35 ?        00:00:00 sshd: cjg0253@pts/8
+cjg0253   748447  748328  0 11:35 ?        00:00:00 /usr/libexec/goa-identity-service
+cjg0253   748452  748328  0 11:35 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+cjg0253   748458  748328  0 11:35 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+cjg0253   748473  748445  0 11:35 pts/8    00:00:00 -bash
+root      750397     948  0 12:14 ?        00:00:00 sshd: jmh0880 [priv]
+jmh0880   750406       1  0 12:14 ?        00:00:00 /lib/systemd/systemd --user
+jmh0880   750407  750406  0 12:14 ?        00:00:00 (sd-pam)
+jmh0880   750412  750406  0 12:14 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+jmh0880   750414  750406  0 12:14 ?        00:00:00 /usr/libexec/tracker-miner-fs
+jmh0880   750423  750406  0 12:14 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+jmh0880   750452  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfsd
+jmh0880   750457  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1633169924/gvfs -f -o big_writes
+jmh0880   750464  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+jmh0880   750481  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+jmh0880   750486  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+jmh0880   750491  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+jmh0880   750499  750406  0 12:14 ?        00:00:00 /usr/libexec/goa-daemon
+jmh0880   750529  750406  0 12:14 ?        00:00:00 /usr/libexec/goa-identity-service
+jmh0880   750530  750406  0 12:14 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+jmh0880   750558  750397  0 12:14 ?        00:00:00 sshd: jmh0880@pts/12
+jmh0880   750560  750406  0 12:14 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+jmh0880   750591  750558  0 12:14 pts/12   00:00:00 -bash
+root      751643       2  0 12:31 ?        00:00:00 [kworker/u257:1-xprtiod]
+root      752810       2  0 12:50 ?        00:00:00 [kworker/u256:1-events_power_efficient]
+cjg0253   753108  748328  0 12:53 ?        00:00:00 /usr/libexec/gvfsd-metadata
+cjg0253   753351  748473  0 12:57 pts/8    00:00:00 nano lab3A.cpp
+root      754477     948  0 13:16 ?        00:00:00 sshd: dem0260 [priv]
+dem0260   754550       1  0 13:16 ?        00:00:00 /lib/systemd/systemd --user
+dem0260   754553  754550  0 13:16 ?        00:00:00 (sd-pam)
+dem0260   754558  754550  0 13:16 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+dem0260   754560  754550  0 13:16 ?        00:00:00 /usr/libexec/tracker-miner-fs
+dem0260   754570  754550  0 13:16 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+dem0260   754598  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfsd
+dem0260   754603  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1633278371/gvfs -f -o big_writes
+dem0260   754605  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+dem0260   754619  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+dem0260   754630  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+dem0260   754636  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+dem0260   754640  754550  0 13:16 ?        00:00:00 /usr/libexec/goa-daemon
+dem0260   754653  754550  0 13:16 ?        00:00:00 /usr/libexec/goa-identity-service
+dem0260   754658  754550  0 13:16 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+dem0260   754679  754550  0 13:16 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+dem0260   754708  754477  0 13:16 ?        00:00:00 sshd: dem0260@pts/2
+dem0260   754718  754708  0 13:16 pts/2    00:00:00 -bash
+dem0260   754963  754550  0 13:21 ?        00:00:00 /usr/libexec/gvfsd-metadata
+root      755274       2  0 13:31 ?        00:00:00 [kworker/u256:2-rpciod]
+root      755636       2  0 13:39 ?        00:00:00 [kworker/u257:2-xprtiod]
+root      755788       2  0 13:49 ?        00:00:00 [kworker/0:2-mm_percpu_wq]
+cjg0253   756453  748473  0 13:57 pts/8    00:00:00 nano lab3C.cpp
+root      756458     948  0 13:57 ?        00:00:00 sshd: ksz0009 [priv]
+ksz0009   756465       1  0 13:57 ?        00:00:00 /lib/systemd/systemd --user
+ksz0009   756468  756465  0 13:57 ?        00:00:00 (sd-pam)
+ksz0009   756473  756465  0 13:57 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+ksz0009   756475  756465  0 13:57 ?        00:00:00 /usr/libexec/tracker-miner-fs
+ksz0009   756483  756465  0 13:57 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+ksz0009   756503  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfsd
+ksz0009   756518  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1633661458/gvfs -f -o big_writes
+ksz0009   756519  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+ksz0009   756531  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+ksz0009   756536  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+ksz0009   756546  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+ksz0009   756552  756465  0 13:57 ?        00:00:00 /usr/libexec/goa-daemon
+ksz0009   756571  756465  0 13:57 ?        00:00:00 /usr/libexec/goa-identity-service
+ksz0009   756572  756465  0 13:57 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+ksz0009   756596  756458  0 13:57 ?        00:00:00 sshd: ksz0009@pts/4
+ksz0009   756598  756465  0 13:57 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+ksz0009   756614  756596  0 13:57 pts/4    00:00:00 -bash
+root      756819       2  0 13:58 ?        00:00:00 [kworker/1:2-events_freezable]
+root      757142       2  0 14:05 ?        00:00:00 [kworker/u256:0-nfsiod]
+root      757271       2  0 14:06 ?        00:00:00 [kworker/0:0-events]
+root      757274       2  0 14:06 ?        00:00:00 [kworker/1:0-events]
+root      757352     948  0 14:09 ?        00:00:00 sshd: ksz0009 [priv]
+ksz0009   757413  757352  0 14:09 ?        00:00:00 sshd: ksz0009@notty
+ksz0009   757414  757413  0 14:09 ?        00:00:00 /usr/lib/openssh/sftp-server
+ksz0009   757438  756614  0 14:11 pts/4    00:00:00 script rec03
+ksz0009   757439  757438  0 14:11 pts/1    00:00:00 bash -i
+root      757465       2  0 14:12 ?        00:00:00 [kworker/1:1-events_freezable]
+root      757481       2  0 14:13 ?        00:00:00 [kworker/0:1-events]
+root      757532     948  0 14:16 ?        00:00:00 sshd: dem0260 [priv]
+dem0260   757593  757532  0 14:16 ?        00:00:00 sshd: dem0260@notty
+dem0260   757594  757593  0 14:16 ?        00:00:00 /usr/lib/openssh/sftp-server
+ksz0009   757598  757439  0 14:17 pts/1    00:00:00 ps -ef
